@@ -135,7 +135,7 @@ public class DoubleUtil {
    }
   
    public static void main(String[] args) {
-    System.out.println("342343 ");
+    System.out.println("66666777777 ");
    }
 
 }
