@@ -134,5 +134,8 @@ public class DoubleUtil {
     return (b1.divide(b2, scale, BigDecimal.ROUND_HALF_UP)).doubleValue();
    }
   
+   public static void main(String[] args) {
+    System.out.println("333 ");
+   }
 
 }

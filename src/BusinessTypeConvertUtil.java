@@ -26,4 +26,6 @@ public class BusinessTypeConvertUtil {
     //老模式同新模式处理逻辑的出入库方式
     public static Map<String, String> oldInLineWithNewMap = new HashMap<String, String>();
     
+    String aaa = "maojq";
+    
 }
